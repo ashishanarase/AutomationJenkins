@@ -8,7 +8,7 @@ public class ConfigLoader {
 
 	private static Properties properties = new Properties();
 
-	static String userDirectory = "C:\\Users\\ashish.anarase\\eclipse\\JenkinsExecution\\";
+	static String userDirectory = "C:\\Users\\ashish.anarase\\eclipse\\AutomationJenkins\\";
 	//static String userDirectory = "C:\\Users\\ASHISH\\git\\JenkinsExecution\\";
 	
 	public static void loadConfig(String environment) {
