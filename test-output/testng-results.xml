@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-09T19:15:29 IST" name="Default suite" finished-at="2024-10-09T19:15:50 IST" duration-ms="21082">
+  <suite started-at="2024-10-09T19:43:36 IST" name="Default suite" finished-at="2024-10-09T19:44:06 IST" duration-ms="29251">
     <groups>
     </groups>
-    <test started-at="2024-10-09T19:15:29 IST" name="Default test" finished-at="2024-10-09T19:15:50 IST" duration-ms="21082">
+    <test started-at="2024-10-09T19:43:36 IST" name="Default test" finished-at="2024-10-09T19:44:06 IST" duration-ms="29251">
       <class name="testCase.TestCase">
-        <test-method is-config="true" signature="dataGeneration()[pri:0, instance:testCase.TestCase@17f7cd29]" started-at="2024-10-09T19:15:29 IST" name="dataGeneration" finished-at="2024-10-09T19:15:29 IST" duration-ms="72" status="PASS">
+        <test-method is-config="true" signature="dataGeneration()[pri:0, instance:testCase.TestCase@22fcf7ab]" started-at="2024-10-09T19:43:36 IST" name="dataGeneration" finished-at="2024-10-09T19:43:36 IST" duration-ms="47" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dataGeneration -->
-        <test-method is-config="true" signature="startBrowser()[pri:0, instance:testCase.TestCase@17f7cd29]" started-at="2024-10-09T19:15:29 IST" name="startBrowser" finished-at="2024-10-09T19:15:33 IST" duration-ms="4162" status="PASS">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:testCase.TestCase@22fcf7ab]" started-at="2024-10-09T19:43:36 IST" name="startBrowser" finished-at="2024-10-09T19:43:40 IST" duration-ms="3621" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startBrowser -->
-        <test-method signature="TC01_TitleValidation()[pri:1, instance:testCase.TestCase@17f7cd29]" started-at="2024-10-09T19:15:33 IST" name="TC01_TitleValidation" description="Test to verify that user should be able to login with valid credentials only" finished-at="2024-10-09T19:15:47 IST" duration-ms="14291" status="PASS">
+        <test-method signature="TC01_TitleValidation()[pri:1, instance:testCase.TestCase@22fcf7ab]" started-at="2024-10-09T19:43:40 IST" name="TC01_TitleValidation" description="Test to verify that user should be able to login with valid credentials only" finished-at="2024-10-09T19:44:03 IST" duration-ms="23076" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01_TitleValidation -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCase.TestCase@17f7cd29]" started-at="2024-10-09T19:15:47 IST" name="closeBrowser" finished-at="2024-10-09T19:15:50 IST" duration-ms="2405" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCase.TestCase@22fcf7ab]" started-at="2024-10-09T19:44:03 IST" name="closeBrowser" finished-at="2024-10-09T19:44:06 IST" duration-ms="2419" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
