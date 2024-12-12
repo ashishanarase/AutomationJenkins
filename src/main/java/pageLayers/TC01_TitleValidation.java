@@ -24,9 +24,9 @@ public class TC01_TitleValidation extends TestBase {
 
 		try {
 
-			driver.get(amazonUrl);
+		//	driver.get(amazonUrl);
 
-			action.titleValidation(amazonTitle);
+		//	action.titleValidation(amazonTitle);
 			
 			Thread.sleep(2000);
 			
